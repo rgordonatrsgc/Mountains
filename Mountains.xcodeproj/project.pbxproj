@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		812218361E6AE89400C41FF3 /* Mountains */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Mountains; path = /Users/russellgordon/Documents/Repositories/ICS2O/Mountains/build/Debug/Mountains; sourceTree = "<absolute>"; };
+		8122186B1E6B0C9900C41FF3 /* Mountains */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Mountains; path = /Users/russellgordon/Documents/Repositories/ICS2O/Mountains/build/Debug/Mountains; sourceTree = "<absolute>"; };
 		819C0CC91E42113E005E9BCA /* Mountains.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Mountains.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +66,7 @@
 			);
 			name = Mountains;
 			productName = Mountains;
-			productReference = 812218361E6AE89400C41FF3 /* Mountains */;
+			productReference = 8122186B1E6B0C9900C41FF3 /* Mountains */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
