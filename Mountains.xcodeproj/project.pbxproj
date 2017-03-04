@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		819C0CBE1E42103C005E9BCA /* Mountains */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Mountains; sourceTree = BUILT_PRODUCTS_DIR; };
+		812218361E6AE89400C41FF3 /* Mountains */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Mountains; path = /Users/russellgordon/Documents/Repositories/ICS2O/Mountains/build/Debug/Mountains; sourceTree = "<absolute>"; };
 		819C0CC91E42113E005E9BCA /* Mountains.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Mountains.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -38,16 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				819C0CC01E42103C005E9BCA /* Mountains */,
-				819C0CBF1E42103C005E9BCA /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		819C0CBF1E42103C005E9BCA /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				819C0CBE1E42103C005E9BCA /* Mountains */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		819C0CC01E42103C005E9BCA /* Mountains */ = {
@@ -75,7 +66,7 @@
 			);
 			name = Mountains;
 			productName = Mountains;
-			productReference = 819C0CBE1E42103C005E9BCA /* Mountains */;
+			productReference = 812218361E6AE89400C41FF3 /* Mountains */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +94,7 @@
 				en,
 			);
 			mainGroup = 819C0CB51E42103C005E9BCA;
-			productRefGroup = 819C0CBF1E42103C005E9BCA /* Products */;
+			productRefGroup = 819C0CB51E42103C005E9BCA;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -248,6 +239,7 @@
 				819C0CC71E42103C005E9BCA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
